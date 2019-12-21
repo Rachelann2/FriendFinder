@@ -1,0 +1,15 @@
+.first {
+    font-weight: bold;
+    text-align: center;
+    color: black;
+    font-size: 45px;
+    padding: 20px;
+}
+
+#nav1 {
+    border-bottom: 4px darkgrey solid;
+}
+
+body {
+    background-color: yellow;
+}
